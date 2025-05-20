@@ -43,7 +43,7 @@ This repository contains a complete face recognition system that operates locall
 ##  Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/face-recognition-ipfs.git
+git clone https://github.com/aishwaryaa-2000/cc-part2.git
 cd face-recognition-ipfs
 ### 2. Create a virtual environment
 python3 -m venv face-env
